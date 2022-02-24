@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://nifty-kilby-7a6c1f.netlify.app}">
+    <a href="https://nifty-kilby-7a6c1f.netlify.app">
       Demo
     </a>
     <span> | </span>
