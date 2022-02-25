@@ -83,10 +83,6 @@ html, body {
 	.info p {
 		white-space: initial;
 	}
-
-    footer * {
-        font-size: 0.6em;
-    }
 }
 
 footer {
